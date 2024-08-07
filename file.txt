@@ -1,6 +1,10 @@
 Hallo
 How are you?
 I wanna eat!
+<<<<<<< HEAD
 It's clowdy yesterday
+=======
+It's clowdy sunny
+>>>>>>> d1c5d69be65840a1dd29a390547aab91ce7007dc
 Would you like walk with me today? 
 do something changes
