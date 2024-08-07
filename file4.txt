@@ -1,1 +1,2 @@
  POSTGRES_USER: vault
+ password: 45421
