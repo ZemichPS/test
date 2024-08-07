@@ -1,4 +1,4 @@
- POSTGRES_USER: vault
- password: 45421
- username: zemich
-
+POSTGRES_USER: vault
+password: 45421
+username: zemich
+пользователь 1 меняет файл 4
